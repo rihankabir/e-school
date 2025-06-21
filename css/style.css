@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+
+
+:root{
+--green : #21B573;
+--orange : #FD511A;
+--background:#F0FFF0;
+--navy:#413960;
+--black:#000000;
+--footer:#282531;
+--book1:#F8FFFB;
+
+--pop:"Poppins", sans-serif;
+--rob:"Roboto", sans-serif;
+
+}
+
+
+body{
+font-family: var(--pop);
+font-size: 16px;
+font-weight: 400;
+color: var(--black);
+
+
+}
+/*header start*/
+header{
+background-color: var(--background);
+padding: 15px 0;
+
+}
+
+.c_nav{
+
+}
+.logo{
+
+}
+.menu{
+
+}
+.menu ul li a{
+color: var(--black);
+padding: 0 20px !important;
+}
+.menu ul li a:hover{
+color: var(--orange);
+}
+.btn_sv{
+background-color: var(--green);
+border-radius: 33px;
+
+font-family: var(--rob);
+font-weight: 400;
+color: #FFFFFF;
+border: 0;
+}
+.btn_sw{
+	margin-left: 15px;
+padding: 12px 28px;
+}
+.btn_sv:hover{
+	background-color: var(--orange);
+	color: white;
+}
+.btn_sv:active{
+	background-color: var(--orange) !important;
+	color: white !important;
+}
+/*header end*/
+
+/*hero start*/
+.banner{
+background-color: var(--background);
+padding-bottom: 65px;
+
+}
+.b_text{
+
+}
+.b_p1{
+color: var(--orange);
+}
+.b_h1{
+	margin: 10px 45px 20px 0;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+color: var(--black);
+
+}
+.b_h1 span{
+	color: var(--green);
+}
+.b_p2{
+line-height: 36px;
+
+
+}
+.btn_get{
+padding: 12px 36px;
+margin-top: 15px;
+}
+.b_img{
+
+}
+
+
+/*hero end*/

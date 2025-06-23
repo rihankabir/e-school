@@ -62,6 +62,36 @@ padding: 0 0 30px;
 .f_h2{
 	font-size: 21px;
 }
+/* course */
+.c_h1 h1{
+
+font-size: 28px !important;
+
+}
+.co_item{
+	padding: 15px 15px 20px !important;
+	margin: 30px 0 0 !important;
+}
+.co_h2{
+	
+font-size: 21px !important;
+
+
+}
+.cli:not(:last-child) {
+margin-right: 0;
+}
+
+.co_left ul li img, .co_right ul li img{
+
+width: 20px;
+
+}
+.co_left ul li span, .co_right ul li span{
+font-size: 13px;
+
+}
+
 
 
 
@@ -127,6 +157,23 @@ padding: 0 50px 30px;
 .p_bottom{
 	padding-bottom: 60px;
 }
+/* course */
+
+.c_h1 h1{
+
+font-size: 28px !important;
+
+}
+.co_item{
+	padding: 15px 15px 20px !important;
+	margin: 30px 50px 0 !important;
+}
+.co_h2{
+	
+font-size: 21px !important;
+
+
+}
 
 
 
@@ -187,14 +234,46 @@ padding: 0 50px 30px;
 	padding-bottom: 80px;
 }
 
+/* course */
 
+.c_h1 h1{
+
+font-size: 30px !important;
+
+}
+.co_item{
+	margin: 40px 120px 0 !important;
+}
 
 
 
 
 
 }
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* course */
+.co_item{
+	
+padding: 20px 15px 25px;
 
+
+}
+.cli:not(:last-child) {
+margin-right: 0;
+}
+
+.co_left ul li img, .co_right ul li img{
+
+width: 20px;
+
+}
+.co_left ul li span, .co_right ul li span{
+font-size: 13px;
+
+}
+
+
+}
 @media (min-width: 1440px) {
 
 .b_h1{

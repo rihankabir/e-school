@@ -160,4 +160,80 @@ box-shadow: 0px 20px 40px 0px #0000001A;
 /*feature end*/
 
 
+/*course start*/
+.course{
+
+}
+.c_h1{
+
+}
+.c_h1 h1{
+font-weight: 700;
+font-size: 36px;
+color: var(--black);
+
+}
+.co_item{
+	margin: 60px 0 0;
+border-radius: 18px;
+box-shadow: 0px 10px 40px 0px #0000001A;
+padding: 25px 20px 30px;
+
+
+}
+.co_img{
+
+
+}
+.co_img img{
+
+}
+
+.co_h2{
+	margin: 20px 0 5px;
+font-weight: 500;
+font-size: 24px;
+color: var(--black);
+
+}
+.co_p{
+
+}
+.btn_co{
+	margin: 20px 0 35px;
+padding: 8px 28px;
+}
+
+
+
+
+.co_footer{
+
+}
+.co_left{
+
+}
+.co_right{
+
+
+}
+.cli:not(:last-child) {
+margin-right: 6px;
+}
+
+
+.co_left ul li img, .co_right ul li img{
+
+
+
+}
+.co_left ul li span, .co_right ul li span{
+font-weight: 500;
+
+}
+
+
+
+/*course end*/
+
 

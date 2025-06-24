@@ -91,6 +91,16 @@ width: 20px;
 font-size: 13px;
 
 }
+/* testimony */
+.t_img{
+padding: 0 60px 20px;
+}
+.t_text{
+	text-align: center;
+}
+.t_item{
+	margin-top: 30px;
+}
 
 
 
@@ -174,7 +184,16 @@ font-size: 21px !important;
 
 
 }
-
+/* testimony */
+.t_img{
+padding: 0 120px 20px;
+}
+.t_text{
+	text-align: center;
+}
+.t_item{
+	margin-top: 30px;
+}
 
 
 
@@ -243,6 +262,13 @@ font-size: 30px !important;
 }
 .co_item{
 	margin: 40px 120px 0 !important;
+}
+/* testimony */
+.t_item{
+	margin-top: 40px;
+}
+.testimonial{
+	padding-bottom: 80px;
 }
 
 

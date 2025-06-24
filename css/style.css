@@ -236,4 +236,34 @@ font-weight: 500;
 
 /*course end*/
 
+/* testimony start*/
+
+.testimonial{
+	padding-bottom: 100px;
+}
+.t_img{
+
+}
+.t_img img{
+width: 100%;
+}
+.t_text{
+
+}
+.t_text p{
+
+}
+.t_item{
+	margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+/* testimony end*/
+
 

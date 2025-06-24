@@ -101,7 +101,23 @@ padding: 0 60px 20px;
 .t_item{
 	margin-top: 30px;
 }
+/* footer */
+.footer_top{
+	text-align: center !important;
+	padding: 55px 0 20px !important;
+}
 
+.ft_details{
+	padding-right: 0 !important;
+	
+	margin-bottom: 35px;
+}
+.ft_links{
+margin-bottom: 35px !important;
+}
+
+
+/* footer */
 
 
 
@@ -195,11 +211,18 @@ padding: 0 120px 20px;
 	margin-top: 30px;
 }
 
+/* footer */
+.footer_top{
+	text-align: center !important;
+}
 
+.ft_details{
+	padding-right: 80px !important;
+	padding-left: 80px !important;
+	margin-bottom: 40px;
+}
 
-
-
-
+/* footer */
 
 
 }
@@ -271,7 +294,20 @@ font-size: 30px !important;
 	padding-bottom: 80px;
 }
 
+/* footer */
+.footer_top{
+	text-align: center !important;
+}
 
+.ft_details{
+	padding-right: 80px !important;
+	padding-left: 80px !important;
+	margin-bottom: 40px;
+}
+
+
+
+/* footer */
 
 
 
@@ -307,8 +343,13 @@ font-size: 13px;
 
 
 }
+/* footer */
 
 
+.ft_details{
+	padding-right: 130px;
+}
 
+/* footer */
 
 }

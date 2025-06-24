@@ -258,12 +258,51 @@ width: 100%;
 }
 
 
-
-
-
-
-
-
 /* testimony end*/
+/* footer start*/
+.footer_top{
+	padding: 55px 0 55px;
+background-color: #282531;
+;
+}
+.ft_details{
+padding-right: 100px;
+}
+.ft_details p{
+line-height: 30px;
+color: #ffffff;
+}
+.ft_links{
 
+}
+.ft_links h2{
+	margin-bottom: 8px !important;
+font-size: 18px;
+font-weight: 700;
+line-height: 30px;
+color:#ffffff ;
+
+}
+.ft_links ul li a{
+	display: block;
+	margin-bottom: 8px !important;
+text-decoration: none;
+color: #ffffff;
+}
+
+footer{
+	padding: 20px 0 30px;
+background-color:  #282531;
+;
+
+}
+footer p{
+color: white;
+line-height: 30px;
+}
+footer p a{
+color: white;
+}
+
+/* footer end*/
 
